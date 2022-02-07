@@ -1,4 +1,11 @@
 ## Welcome to GitHub Pages
+# 写一下博客基本框架
+## Header 2
+### Header 3
+
+# 写一下博客基本框架
+## Header 2
+### Header 3
 
 You can use the [editor on GitHub](https://github.com/1tex/1tex.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
