@@ -11,9 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# 写一下博客基本框架
 ## Header 2
 ### Header 3
+
+# 绑定域名
+## lavia.tk
 
 - Bulleted
 - List
